@@ -1,0 +1,7 @@
+.DS_Store
+.RData
+.Rhistory
+.Rproj.user/
+flow_jotter.Rproj
+data/*
+
